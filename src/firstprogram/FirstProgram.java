@@ -16,6 +16,8 @@ public class FirstProgram {
     public static void main(String[] args) {
         // the following program will be used to reverse the word
         int x = 10;
+        
+        // this is the first change I made
         System.out.println(x*100);
     }
 }
